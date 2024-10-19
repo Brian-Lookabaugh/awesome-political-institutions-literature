@@ -15,6 +15,7 @@
 - [Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States (2020)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/democracy-in-america-partisanship-polarization-and-the-robustness-of-support-for-democracy-in-the-united-states/C7C72745B1AD1FF9E363BBFBA9E18867)
 - [Safeguarding Democracy: Powersharing and Democratic Survival (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/safeguarding-democracy-powersharing-and-democratic-survival/D31FFD5C1EE8DF14FA2C9BB8E73536EB)
 - [The Perils of Unearned Foreign Income: Aid, Remittances, and Government Survival (2012)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/perils-of-unearned-foreign-income-aid-remittances-and-government-survival/5628B5BF019FDBD071EBA12A8F18917D)
+- [Authoritarian Reversals and Democratic Consolidation (2008)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/authoritarian-reversals-and-democratic-consolidation/E3963766F74CC6CF2AEE2F5B883139F4)
 
 # Comparative Democratic Politics
 
