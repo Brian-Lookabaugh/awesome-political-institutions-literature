@@ -9,6 +9,7 @@
 - [The Economic Origins of Democracy Reconsidered (2012)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/economic-origins-of-democracy-reconsidered/483C04B4B9294DD2BFDDF2747336F5B5)
 - [Democracy, Development, and the International System (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/democracy-development-and-the-international-system/96813CA9FB71D6714F7827F4BF465978)
 - [International System and Technologies of Rebellion: How the End of the Cold War Shaped Internal Conflict (2010)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-system-and-technologies-of-rebellion-how-the-end-of-the-cold-war-shaped-internal-conflict/0A40EBED50577788FDC9913938DA041D)
+- [Critical Junctures: Independence Movements and Democracy in Africa (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12798)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -16,6 +17,8 @@
 - [Safeguarding Democracy: Powersharing and Democratic Survival (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/safeguarding-democracy-powersharing-and-democratic-survival/D31FFD5C1EE8DF14FA2C9BB8E73536EB)
 - [The Perils of Unearned Foreign Income: Aid, Remittances, and Government Survival (2012)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/perils-of-unearned-foreign-income-aid-remittances-and-government-survival/5628B5BF019FDBD071EBA12A8F18917D)
 - [Authoritarian Reversals and Democratic Consolidation (2008)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/authoritarian-reversals-and-democratic-consolidation/E3963766F74CC6CF2AEE2F5B883139F4)
+- [Reference Points and Democratic Backsliding (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12672)
+- [Does Public Support Help Democracy Survive? (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12452)
 
 # Comparative Democratic Politics
 
