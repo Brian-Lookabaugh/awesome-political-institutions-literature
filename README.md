@@ -1,6 +1,6 @@
 # awesome-political-institutions-literature
 
-# Democratic Transitions
+# Democratic Transitions/Democratization
 - [UN Peacekeeping and Democratization in Conflict-Affected Countries (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/un-peacekeeping-and-democratization-in-conflictaffected-countries/7E5374C9417523612CF2626935FAB95D)
 - [Democracy by Mistake: How the Errors of Autocrats Trigger Transitions to Freer Government (2020](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/democracy-by-mistake-how-the-errors-of-autocrats-trigger-transitions-to-freer-government/7F9054A5F636EEE21B3BF56EF1BF8930)
 - [Origins of Early Democracy (2020)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/origins-of-early-democracy/09CE2053657A9CF004DB2078B563EB65)
@@ -10,6 +10,9 @@
 - [Democracy, Development, and the International System (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/democracy-development-and-the-international-system/96813CA9FB71D6714F7827F4BF465978)
 - [International System and Technologies of Rebellion: How the End of the Cold War Shaped Internal Conflict (2010)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-system-and-technologies-of-rebellion-how-the-end-of-the-cold-war-shaped-internal-conflict/0A40EBED50577788FDC9913938DA041D)
 - [Critical Junctures: Independence Movements and Democracy in Africa (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12798)
+- [Unlikely Democrats: Economic Elite Uncertainty under Dictatorship and Support for Democratization (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12277)
+- [Foreign Aid, Human Rights, and Democracy Promotion: Evidence from a Natural Experiment (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12289)
+- [Income, Democracy, and Leader Turnover (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12135)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -19,6 +22,7 @@
 - [Authoritarian Reversals and Democratic Consolidation (2008)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/authoritarian-reversals-and-democratic-consolidation/E3963766F74CC6CF2AEE2F5B883139F4)
 - [Reference Points and Democratic Backsliding (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12672)
 - [Does Public Support Help Democracy Survive? (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12452)
+- [Institutional Characteristics and Regime Survival: Why Are Semi-Democracies Less Durable Than Autocracies and Democracies? (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12168)
 
 # Comparative Democratic Politics
 
