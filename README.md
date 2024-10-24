@@ -13,6 +13,10 @@
 - [Unlikely Democrats: Economic Elite Uncertainty under Dictatorship and Support for Democratization (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12277)
 - [Foreign Aid, Human Rights, and Democracy Promotion: Evidence from a Natural Experiment (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12289)
 - [Income, Democracy, and Leader Turnover (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12135)
+- [Learning to Love Democracy: Electoral Accountability and the Success of Democracy (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12005)
+- [Elections and Democratization in Authoritarian Regimes (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12013)
+- [Economic Development, Violent Leader Removal, and Democratization (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00595.x)
+- [Mission or Empire, Word or Sword? The Human Capital Legacy in Postcolonial Democratic Development (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00550.x)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
