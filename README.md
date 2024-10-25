@@ -17,6 +17,11 @@
 - [Elections and Democratization in Authoritarian Regimes (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12013)
 - [Economic Development, Violent Leader Removal, and Democratization (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00595.x)
 - [Mission or Empire, Word or Sword? The Human Capital Legacy in Postcolonial Democratic Development (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00550.x)
+- [How Foreign Aid Can Foster Democratization in Authoritarian Regimes (2009)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2009.00386.x)
+- [Dominant Party Strategy and Democratization (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2007.00296.x)
+- [Democratic Transitions (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00201.x)
+- [Globalization and the Strengthening of Democracy in the Developing World (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2005.00150.x)
+- [Local Context and Democratization in Mexico (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2005.00110.x)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
