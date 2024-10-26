@@ -32,6 +32,7 @@
 - [Reference Points and Democratic Backsliding (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12672)
 - [Does Public Support Help Democracy Survive? (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12452)
 - [Institutional Characteristics and Regime Survival: Why Are Semi-Democracies Less Durable Than Autocracies and Democracies? (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12168)
+- [Democratic Survival, Peace, and War in the International System (2003)](https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00016)
 
 # Comparative Democratic Politics
 
