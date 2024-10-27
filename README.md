@@ -22,6 +22,7 @@
 - [Democratic Transitions (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00201.x)
 - [Globalization and the Strengthening of Democracy in the Developing World (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2005.00150.x)
 - [Local Context and Democratization in Mexico (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2005.00110.x)
+- [Ethnic Inequality, Democratic Transitions, and Democratic Breakdowns: Investigating an Asymmetrical Relationship (2024)](https://www.journals.uchicago.edu/doi/10.1086/726949)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -33,9 +34,15 @@
 - [Does Public Support Help Democracy Survive? (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12452)
 - [Institutional Characteristics and Regime Survival: Why Are Semi-Democracies Less Durable Than Autocracies and Democracies? (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12168)
 - [Democratic Survival, Peace, and War in the International System (2003)](https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00016)
+- [Ethnic Inequality, Democratic Transitions, and Democratic Breakdowns: Investigating an Asymmetrical Relationship (2024)](https://www.journals.uchicago.edu/doi/10.1086/726949)
 
 # Comparative Democratic Politics
 
 # Comparative Authoritarian Politics
 - [Elite Change without Regime Change: Authoritarian Persistence in Africa and the End of the Cold War (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/elite-change-without-regime-change-authoritarian-persistence-in-africa-and-the-end-of-the-cold-war/84CEC070788CF00AE24CFBB4840D3DE5)
 - [Do Natural Resources Fuel Authoritarianism? A Reappraisal of the Resource Curse (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/do-natural-resources-fuel-authoritarianism-a-reappraisal-of-the-resource-curse/0DC2DEF9747F89CA6894A6245E80B6F7)
+- [Coercive Legacies: From Rebel Governance to Authoritarian Control (2024)](https://www.journals.uchicago.edu/doi/10.1086/729947)
+- [Blood Is Thicker than Water: Family Size and Leader Deposition in Medieval and Early Modern Europe (2021)](https://www.journals.uchicago.edu/doi/10.1086/715065)
+
+# Measurement
+- [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
