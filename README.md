@@ -23,6 +23,7 @@
 - [Globalization and the Strengthening of Democracy in the Developing World (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2005.00150.x)
 - [Local Context and Democratization in Mexico (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2005.00110.x)
 - [Ethnic Inequality, Democratic Transitions, and Democratic Breakdowns: Investigating an Asymmetrical Relationship (2024)](https://www.journals.uchicago.edu/doi/10.1086/726949)
+- [Foreign Aid Allocation Tactics and Democratic Change in Africa (2015)](https://www.journals.uchicago.edu/doi/10.1086/678976)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
