@@ -24,6 +24,8 @@
 - [Local Context and Democratization in Mexico (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2005.00110.x)
 - [Ethnic Inequality, Democratic Transitions, and Democratic Breakdowns: Investigating an Asymmetrical Relationship (2024)](https://www.journals.uchicago.edu/doi/10.1086/726949)
 - [Foreign Aid Allocation Tactics and Democratic Change in Africa (2015)](https://www.journals.uchicago.edu/doi/10.1086/678976)
+- [Democratization and International Border Agreements (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000364)
+- [The Contradiction of Modernization: A Conditional Model of Endogenous Democratization (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000162)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -36,6 +38,9 @@
 - [Institutional Characteristics and Regime Survival: Why Are Semi-Democracies Less Durable Than Autocracies and Democracies? (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12168)
 - [Democratic Survival, Peace, and War in the International System (2003)](https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00016)
 - [Ethnic Inequality, Democratic Transitions, and Democratic Breakdowns: Investigating an Asymmetrical Relationship (2024)](https://www.journals.uchicago.edu/doi/10.1086/726949)
+- [Legal Institutions and Democratic Survival (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000169)
+- [Two Modes of Democratic Breakdown: A Competing Risks Analysis of Democratic Durability (2010](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000575)
+- [Explaining Democratic Survival Globally (1946–2002) (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381609990892)
 
 # Comparative Democratic Politics
 
@@ -44,6 +49,7 @@
 - [Do Natural Resources Fuel Authoritarianism? A Reappraisal of the Resource Curse (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/do-natural-resources-fuel-authoritarianism-a-reappraisal-of-the-resource-curse/0DC2DEF9747F89CA6894A6245E80B6F7)
 - [Coercive Legacies: From Rebel Governance to Authoritarian Control (2024)](https://www.journals.uchicago.edu/doi/10.1086/729947)
 - [Blood Is Thicker than Water: Family Size and Leader Deposition in Medieval and Early Modern Europe (2021)](https://www.journals.uchicago.edu/doi/10.1086/715065)
+- [Cities, Redistribution, and Authoritarian Regime Survival (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000340)
 
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
