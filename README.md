@@ -26,6 +26,7 @@
 - [Foreign Aid Allocation Tactics and Democratic Change in Africa (2015)](https://www.journals.uchicago.edu/doi/10.1086/678976)
 - [Democratization and International Border Agreements (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000364)
 - [The Contradiction of Modernization: A Conditional Model of Endogenous Democratization (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000162)
+- [Does Peace Nurture Democracy? (2001)](https://www.journals.uchicago.edu/doi/10.1111/0022-3816.00095)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -41,6 +42,7 @@
 - [Legal Institutions and Democratic Survival (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000169)
 - [Two Modes of Democratic Breakdown: A Competing Risks Analysis of Democratic Durability (2010](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000575)
 - [Explaining Democratic Survival Globally (1946–2002) (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381609990892)
+- [Economic Performance, Institutional Intermediation, and Democratic Survival (2001)](https://www.journals.uchicago.edu/doi/10.1111/0022-3816.00087)
 
 # Comparative Democratic Politics
 
