@@ -27,6 +27,10 @@
 - [Democratization and International Border Agreements (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000364)
 - [The Contradiction of Modernization: A Conditional Model of Endogenous Democratization (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000162)
 - [Does Peace Nurture Democracy? (2001)](https://www.journals.uchicago.edu/doi/10.1111/0022-3816.00095)
+- [Episodes of regime transformation (2024)](https://journals.sagepub.com/doi/full/10.1177/00223433231168192)
+- [The impact of negative oil shocks on military spending and democracy in the oil states of the greater Middle East: Implications for the oil sanctions (2024)](https://journals.sagepub.com/doi/abs/10.1177/00223433221116654)
+- [Joining forces: Social coalitions and democratic revolutions (2023)](https://journals.sagepub.com/doi/full/10.1177/00223433221138614)
+- [A test of the democratic peacekeeping hypothesis: Coups, democracy, and foreign military deployments (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320905626)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -43,6 +47,8 @@
 - [Two Modes of Democratic Breakdown: A Competing Risks Analysis of Democratic Durability (2010](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000575)
 - [Explaining Democratic Survival Globally (1946–2002) (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381609990892)
 - [Economic Performance, Institutional Intermediation, and Democratic Survival (2001)](https://www.journals.uchicago.edu/doi/10.1111/0022-3816.00087)
+- [Ambivalent allies: How inconsistent foreign support dooms new democracies (2023)](https://journals.sagepub.com/doi/full/10.1177/00223433221137612)
+- [Latent territorial threat and democratic regime reversals (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211009770)
 
 # Comparative Democratic Politics
 
