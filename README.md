@@ -31,6 +31,8 @@
 - [The impact of negative oil shocks on military spending and democracy in the oil states of the greater Middle East: Implications for the oil sanctions (2024)](https://journals.sagepub.com/doi/abs/10.1177/00223433221116654)
 - [Joining forces: Social coalitions and democratic revolutions (2023)](https://journals.sagepub.com/doi/full/10.1177/00223433221138614)
 - [A test of the democratic peacekeeping hypothesis: Coups, democracy, and foreign military deployments (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320905626)
+- [Conquering and coercing: Nonviolent anti-regime protests and the pathways to democracy (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343319830267)
+- [How do external territorial threats affect mass killing? (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343318821707)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
