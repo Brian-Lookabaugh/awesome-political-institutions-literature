@@ -36,6 +36,7 @@
 - [With friends like these, who needs democracy? The effect of transnational support from rivals on post-conflict democratization (2014)](https://journals.sagepub.com/doi/abs/10.1177/0022343313512851)
 - [Oil and democracy: More than a cross-country correlation? (2010](https://journals.sagepub.com/doi/abs/10.1177/0022343310368348)
 - [Democratization and International Conflict: The Impact of Institutional Legacies (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307076628)
+- [Democratizing with Ethnic Divisions: A Source of Conflict? (2001)](https://journals.sagepub.com/doi/abs/10.1177/0022343301038005001)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
