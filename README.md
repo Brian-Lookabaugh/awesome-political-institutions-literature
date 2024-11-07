@@ -37,6 +37,7 @@
 - [Oil and democracy: More than a cross-country correlation? (2010](https://journals.sagepub.com/doi/abs/10.1177/0022343310368348)
 - [Democratization and International Conflict: The Impact of Institutional Legacies (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307076628)
 - [Democratizing with Ethnic Divisions: A Source of Conflict? (2001)](https://journals.sagepub.com/doi/abs/10.1177/0022343301038005001)
+- [Genocide, Politicide, and the Prospects of Democratization since 1900 (2021)](https://journals.sagepub.com/doi/abs/10.1177/00220027211000445)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -64,6 +65,7 @@
 - [Coercive Legacies: From Rebel Governance to Authoritarian Control (2024)](https://www.journals.uchicago.edu/doi/10.1086/729947)
 - [Blood Is Thicker than Water: Family Size and Leader Deposition in Medieval and Early Modern Europe (2021)](https://www.journals.uchicago.edu/doi/10.1086/715065)
 - [Cities, Redistribution, and Authoritarian Regime Survival (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000340)
+- [Winning the Game of Thrones: Leadership Succession in Modern Autocracies (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022002720978807)
 
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
