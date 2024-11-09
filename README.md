@@ -38,6 +38,11 @@
 - [Democratization and International Conflict: The Impact of Institutional Legacies (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307076628)
 - [Democratizing with Ethnic Divisions: A Source of Conflict? (2001)](https://journals.sagepub.com/doi/abs/10.1177/0022343301038005001)
 - [Genocide, Politicide, and the Prospects of Democratization since 1900 (2021)](https://journals.sagepub.com/doi/abs/10.1177/00220027211000445)
+- [Why Democracy Protests Do Not Diffuse (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002718815957)
+- [How Should We Now Conceptualize Protest, Diffusion, and Regime Change? (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002719862427)
+- [The Two-step Model of Clustered Democratization (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002719875565)
+- [What We (Do Not) Know about the Diffusion of Democracy Protests (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002719868538)
+- [Who Democratizes? Western-educated Leaders and Regime Transitions (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022002715590878)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
