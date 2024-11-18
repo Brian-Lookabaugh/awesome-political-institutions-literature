@@ -43,6 +43,7 @@
 - [The Two-step Model of Clustered Democratization (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002719875565)
 - [What We (Do Not) Know about the Diffusion of Democracy Protests (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002719868538)
 - [Who Democratizes? Western-educated Leaders and Regime Transitions (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022002715590878)
+- [Civil War Outcomes and Egalitarian Democracy in Post-Civil War States: A Cross-National Analysis, 1946-2018 (2023)](https://www.tandfonline.com/doi/full/10.1080/10242694.2022.2050022)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -61,6 +62,7 @@
 - [Economic Performance, Institutional Intermediation, and Democratic Survival (2001)](https://www.journals.uchicago.edu/doi/10.1111/0022-3816.00087)
 - [Ambivalent allies: How inconsistent foreign support dooms new democracies (2023)](https://journals.sagepub.com/doi/full/10.1177/00223433221137612)
 - [Latent territorial threat and democratic regime reversals (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211009770)
+- [Democracy, Regime Durability and Terrorism in Africa (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2019.1671090)
 
 # Comparative Democratic Politics
 
