@@ -44,6 +44,7 @@
 - [What We (Do Not) Know about the Diffusion of Democracy Protests (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022002719868538)
 - [Who Democratizes? Western-educated Leaders and Regime Transitions (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022002715590878)
 - [Civil War Outcomes and Egalitarian Democracy in Post-Civil War States: A Cross-National Analysis, 1946-2018 (2023)](https://www.tandfonline.com/doi/full/10.1080/10242694.2022.2050022)
+- [The democracy dilemma. Aid, power-sharing governments, and post-conflict democratization (2021)](https://journals.sagepub.com/doi/full/10.1177/0738894219830960)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -73,6 +74,7 @@
 - [Blood Is Thicker than Water: Family Size and Leader Deposition in Medieval and Early Modern Europe (2021)](https://www.journals.uchicago.edu/doi/10.1086/715065)
 - [Cities, Redistribution, and Authoritarian Regime Survival (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000340)
 - [Winning the Game of Thrones: Leadership Succession in Modern Autocracies (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022002720978807)
+- [Authoritarian regimes and civil–military relations: Explaining counterbalancing in autocracies (2020)](https://journals.sagepub.com/doi/abs/10.1177/0738894219836285)
 
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
