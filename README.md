@@ -46,6 +46,7 @@
 - [Civil War Outcomes and Egalitarian Democracy in Post-Civil War States: A Cross-National Analysis, 1946-2018 (2023)](https://www.tandfonline.com/doi/full/10.1080/10242694.2022.2050022)
 - [The democracy dilemma. Aid, power-sharing governments, and post-conflict democratization (2021)](https://journals.sagepub.com/doi/full/10.1177/0738894219830960)
 - [Too good to be true? United Nations peacebuilding and the democratization of war-torn states (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894214559671)
+- [Sanctions and Democracy (2015)](https://www.tandfonline.com/doi/full/10.1080/03050629.2015.1036723)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
