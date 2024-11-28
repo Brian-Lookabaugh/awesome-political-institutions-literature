@@ -67,6 +67,7 @@
 - [Latent territorial threat and democratic regime reversals (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211009770)
 - [Democracy, Regime Durability and Terrorism in Africa (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2019.1671090)
 - [How to make democracy self-enforcing after civil war: Enabling credible yet adaptable elite pacts (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213520372)
+- [The Durability of Imposed Democracy (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.880701)
 
 # Comparative Democratic Politics
 
