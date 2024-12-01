@@ -53,6 +53,8 @@
 - [Unexpected Bedfellows: The GATT, the WTO and Some Democratic Rights (2011)](https://academic.oup.com/isq/article-abstract/55/2/379/1793785?redirectedFrom=fulltext)
 - [Does Foreign Aid Promote Democracy? (2004)](https://academic.oup.com/isq/article-abstract/48/1/251/1795552?redirectedFrom=fulltext)
 - [Civil War and Democratization: A Micro-Level Analysis (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12780)
+- [Are ICTs Democratizing Dictatorships? New Media and Mass Mobilization (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12439)
+- [Democracy, Institutional Maturity, and Economic Development (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12185)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
