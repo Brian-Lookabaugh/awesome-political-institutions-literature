@@ -48,6 +48,9 @@
 - [Too good to be true? United Nations peacebuilding and the democratization of war-torn states (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894214559671)
 - [Sanctions and Democracy (2015)](https://www.tandfonline.com/doi/full/10.1080/03050629.2015.1036723)
 - [Remittances and Democratization (2015)](https://academic.oup.com/isq/article-abstract/59/3/571/1814166?redirectedFrom=fulltext)
+- [Dealing with Dictators: Negotiated Democratization and the Fate of Outgoing Autocrats (2014)](https://academic.oup.com/isq/article-abstract/58/3/550/1795671?redirectedFrom=fulltext)
+- [Democratization after Civil War: A Brush-Clearing Exercise (2012)](https://academic.oup.com/isq/article-abstract/56/4/801/1833466?redirectedFrom=fulltext)
+- [Unexpected Bedfellows: The GATT, the WTO and Some Democratic Rights (2011)](https://academic.oup.com/isq/article-abstract/55/2/379/1793785?redirectedFrom=fulltext)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
