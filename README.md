@@ -51,6 +51,8 @@
 - [Dealing with Dictators: Negotiated Democratization and the Fate of Outgoing Autocrats (2014)](https://academic.oup.com/isq/article-abstract/58/3/550/1795671?redirectedFrom=fulltext)
 - [Democratization after Civil War: A Brush-Clearing Exercise (2012)](https://academic.oup.com/isq/article-abstract/56/4/801/1833466?redirectedFrom=fulltext)
 - [Unexpected Bedfellows: The GATT, the WTO and Some Democratic Rights (2011)](https://academic.oup.com/isq/article-abstract/55/2/379/1793785?redirectedFrom=fulltext)
+- [Does Foreign Aid Promote Democracy? (2004)](https://academic.oup.com/isq/article-abstract/48/1/251/1795552?redirectedFrom=fulltext)
+- [Civil War and Democratization: A Micro-Level Analysis (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12780)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -73,6 +75,7 @@
 - [How to make democracy self-enforcing after civil war: Enabling credible yet adaptable elite pacts (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213520372)
 - [The Durability of Imposed Democracy (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.880701)
 - [Mass Emigration and the Erosion of Liberal Democracy (2024)](https://academic.oup.com/isq/article/68/2/sqae026/7641120)
+- [Regressive Socioeconomic Distribution and Democratic Survival (2007)](https://academic.oup.com/isq/article-abstract/51/3/677/1798943?redirectedFrom=fulltext)
 
 # Comparative Democratic Politics
 
