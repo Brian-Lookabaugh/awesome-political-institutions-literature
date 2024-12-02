@@ -59,6 +59,10 @@
 - [Bounded Democratization: How Military-Party Relations Shape Military-Led Democratization (2023)](https://journals.sagepub.com/doi/abs/10.1177/00104140221116461)
 - [Do Truth Commissions Really Improve Democracy? (2022)](https://journals.sagepub.com/doi/full/10.1177/00104140211024305)
 - [Rethinking Democratic Diffusion: Bringing Regime Type Back In (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019852701)
+- [Being There Is Half the Battle: Group Inclusion, Constitution-Writing, and Democracy (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414019830739)
+- [Elections as Causes of Democratization: Southeast Asia in Comparative Perspective (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018758763)
+- [The Missing Dimension of the Political Resource Curse Debate (2017)](https://journals.sagepub.com/doi/abs/10.1177/0010414016666861)
+- [Authoritarian and Democratic Diffusion in Post-Communist Regions (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414016628270)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -84,6 +88,8 @@
 - [Regressive Socioeconomic Distribution and Democratic Survival (2007)](https://academic.oup.com/isq/article-abstract/51/3/677/1798943?redirectedFrom=fulltext)
 - [How Great is the Current Danger to Democracy? Assessing the Risk With Historical Data (2023)](https://journals.sagepub.com/doi/abs/10.1177/00104140231168363)
 - [The Unintended Consequences of Democracy Promotion: International Organizations and Democratic Backsliding (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019897689)
+- [The Long-Term Electoral Legacies of Civil War in Young Democracies: Italy, 1946-1968 (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018784057)
+- [Coup d’État and Democracy (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414015621081)
 
 # Comparative Democratic Politics
 
@@ -95,6 +101,12 @@
 - [Cities, Redistribution, and Authoritarian Regime Survival (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000340)
 - [Winning the Game of Thrones: Leadership Succession in Modern Autocracies (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022002720978807)
 - [Authoritarian regimes and civil–military relations: Explaining counterbalancing in autocracies (2020)](https://journals.sagepub.com/doi/abs/10.1177/0738894219836285)
+- [The Autocratic Welfare State: Old-Age Pensions, Credible Commitments, and Regime Survival (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017710265)
+- [Ties to the Rest: Autocratic Linkages and Regime Survival (2017)](https://journals.sagepub.com/doi/abs/10.1177/0010414016666859)
+- [Foreign Direct Investment and Authoritarian Stability (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414016655536)
+- [Mass Organization and the Durability of Competitive Authoritarian Regimes: Evidence From Venezuela (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414016628186)
+- [The Durability of Presidential and Parliament-Based Dictatorships (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014565888)
+- [Elections, Information, and Policy Responsiveness in Autocratic Regimes (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014555443)
 
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
