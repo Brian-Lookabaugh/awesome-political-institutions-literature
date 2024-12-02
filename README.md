@@ -55,6 +55,10 @@
 - [Civil War and Democratization: A Micro-Level Analysis (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12780)
 - [Are ICTs Democratizing Dictatorships? New Media and Mass Mobilization (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12439)
 - [Democracy, Institutional Maturity, and Economic Development (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12185)
+- [Regime Transformation From Below: Mobilization for Democracy and Autocracy From 1900 to 2021 (2023)](https://journals.sagepub.com/doi/full/10.1177/00104140231152793)
+- [Bounded Democratization: How Military-Party Relations Shape Military-Led Democratization (2023)](https://journals.sagepub.com/doi/abs/10.1177/00104140221116461)
+- [Do Truth Commissions Really Improve Democracy? (2022)](https://journals.sagepub.com/doi/full/10.1177/00104140211024305)
+- [Rethinking Democratic Diffusion: Bringing Regime Type Back In (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019852701)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -78,6 +82,8 @@
 - [The Durability of Imposed Democracy (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.880701)
 - [Mass Emigration and the Erosion of Liberal Democracy (2024)](https://academic.oup.com/isq/article/68/2/sqae026/7641120)
 - [Regressive Socioeconomic Distribution and Democratic Survival (2007)](https://academic.oup.com/isq/article-abstract/51/3/677/1798943?redirectedFrom=fulltext)
+- [How Great is the Current Danger to Democracy? Assessing the Risk With Historical Data (2023)](https://journals.sagepub.com/doi/abs/10.1177/00104140231168363)
+- [The Unintended Consequences of Democracy Promotion: International Organizations and Democratic Backsliding (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019897689)
 
 # Comparative Democratic Politics
 
