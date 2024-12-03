@@ -63,6 +63,13 @@
 - [Elections as Causes of Democratization: Southeast Asia in Comparative Perspective (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018758763)
 - [The Missing Dimension of the Political Resource Curse Debate (2017)](https://journals.sagepub.com/doi/abs/10.1177/0010414016666861)
 - [Authoritarian and Democratic Diffusion in Post-Communist Regions (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414016628270)
+- [Labor Shortages, Rural Inequality, and Democratization (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013512609)
+- [Oil, Democracy, and Context: A Meta-Analysis (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013495358)
+- [Is There a Necessary Condition for Democracy? The Role of State Capacity in Postcommunist Countries (2012)](https://journals.sagepub.com/doi/abs/10.1177/0010414011428587)
+- [The International Diffusion of Democracy (2011)](https://journals.sagepub.com/doi/abs/10.1177/0010414011407474)
+- [A Duration Analysis of Democratic Transitions and Authoritarian Backslides (2011)](https://journals.sagepub.com/doi/abs/10.1177/0010414011405460)
+- [Does It Take Democrats to Democratize? Lessons From Islamic and Secular Elite Values in Turkey (2011)](https://journals.sagepub.com/doi/abs/10.1177/0010414010397751)
+- [Inequality and Democratization: A Contractarian Approach (2010)](https://journals.sagepub.com/doi/abs/10.1177/0010414010376915)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -90,6 +97,7 @@
 - [The Unintended Consequences of Democracy Promotion: International Organizations and Democratic Backsliding (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019897689)
 - [The Long-Term Electoral Legacies of Civil War in Young Democracies: Italy, 1946-1968 (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018784057)
 - [Coup d’État and Democracy (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414015621081)
+- [Looking Toward the Future: Alternations in Power and Popular Perspectives on Democratic Durability in Africa (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013488534)
 
 # Comparative Democratic Politics
 
@@ -107,6 +115,9 @@
 - [Mass Organization and the Durability of Competitive Authoritarian Regimes: Evidence From Venezuela (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414016628186)
 - [The Durability of Presidential and Parliament-Based Dictatorships (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014565888)
 - [Elections, Information, and Policy Responsiveness in Autocratic Regimes (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014555443)
+- [Election Boycotts and Hybrid Regime Survival (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013488548)
+- [If You’re Against Them You’re With Us: The Effect of Expropriation on Autocratic Survival (2012)](https://journals.sagepub.com/doi/abs/10.1177/0010414011428593)
 
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
+- [Rival Strategies of Validation: Tools for Evaluating Measures of Democracy (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013489098)
