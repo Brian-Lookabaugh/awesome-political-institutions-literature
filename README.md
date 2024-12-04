@@ -70,6 +70,7 @@
 - [A Duration Analysis of Democratic Transitions and Authoritarian Backslides (2011)](https://journals.sagepub.com/doi/abs/10.1177/0010414011405460)
 - [Does It Take Democrats to Democratize? Lessons From Islamic and Secular Elite Values in Turkey (2011)](https://journals.sagepub.com/doi/abs/10.1177/0010414010397751)
 - [Inequality and Democratization: A Contractarian Approach (2010)](https://journals.sagepub.com/doi/abs/10.1177/0010414010376915)
+- [Electoral Protests and Democratization Beyond the Color Revolutions (2009)](https://journals.sagepub.com/doi/abs/10.1177/0010414009332131)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -98,6 +99,7 @@
 - [The Long-Term Electoral Legacies of Civil War in Young Democracies: Italy, 1946-1968 (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018784057)
 - [Coup d’État and Democracy (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414015621081)
 - [Looking Toward the Future: Alternations in Power and Popular Perspectives on Democratic Durability in Africa (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013488534)
+- [Lessons from Strange Cases: Democracy, Development, and the Resource Curse in the U.S. States (2008)](https://journals.sagepub.com/doi/abs/10.1177/0010414007313123)
 
 # Comparative Democratic Politics
 
