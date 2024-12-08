@@ -82,6 +82,11 @@
 - [Endogenous Democratization (2003)](https://www.cambridge.org/core/journals/world-politics/article/abs/endogenous-democratization/B813380A747708BE21A0B28742640EBA)
 - [Islam and Authoritarianism (2003)](https://www.cambridge.org/core/journals/world-politics/article/abs/islam-and-authoritarianism/7B37A3F75A63B688593EF21D25C75C48)
 - [Does Oil Hinder Democracy? (2001)](https://www.cambridge.org/core/journals/world-politics/article/abs/does-oil-hinder-democracy/67665D8D240C8F43CD4A2DCB35894071)
+- [The state as a determinant of democracy: durable poor-quality democracies in contemporary Latin America (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2267992)
+- [On the effectiveness of democracy aid in post-civil war recipient countries (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2268536)
+- [Does schooling promote democracy? A meta-analysis (2023)](https://www.tandfonline.com/doi/full/10.1080/13510347.2022.2109016)
+- [Can democracy aid improve democracy? The European Union’s democracy assistance 2002–2018 (2022)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.2012654)
+- [When incumbents do not run: presidential succession and democratization (2022)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1957837)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -113,6 +118,23 @@
 - [Lessons from Strange Cases: Democracy, Development, and the Resource Curse in the U.S. States (2008)](https://journals.sagepub.com/doi/abs/10.1177/0010414007313123)
 - [Ethnic Inequality and the Dismantling of Democracy: A Global Analysis (2015)](https://www.cambridge.org/core/journals/world-politics/article/ethnic-inequality-and-the-dismantling-of-democracy-a-global-analysis/AB0FF4A670724C048C948A857656F908)
 - [Inequality and Democracy: Why Inequality Harms Consolidation but Does Not Affect Democratization (2009)](https://www.cambridge.org/core/journals/world-politics/article/abs/inequality-and-democracy-why-inequality-harms-consolidation-but-does-not-affect-democratization/1AC302799314E74BBFD65C60B2CD4489)
+- [Countering autocratization: a roadmap for democratic defence (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2279677)
+- [Do mutually reinforcing cleavages harm democracy? Inequalities between ethnic groups and autocratization (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2264196)
+- [Born with a silver spoon? Modes of transitions and democratic survival (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2271842)
+- [Academic freedom and the onset of autocratization (2023)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2207213)
+- [Who’s to blame for democratic backsliding: populists, presidents or dominant executives? (2023)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2190582)
+- [Patterns of democratic backsliding in third-wave democracies: a sequence analysis perspective (2023)](https://www.tandfonline.com/doi/full/10.1080/13510347.2022.2130260)
+- [The road to durable democracy: dominant party regimes, party politics and democratic survival (2022)](https://www.tandfonline.com/doi/full/10.1080/13510347.2022.2085253)
+- [Foreign direct investment and democratic survival: a sectoral approach (2022)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1950143)
+- [Unravelling democratic erosion: who drives the slow death of democracy, and how? (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1925650)
+- [Dynamic dictators: improving the research agenda on autocratization and authoritarian resilience (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1903881)
+- [How democracies prevail: democratic resilience as a two-stage process (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1891413)
+- [What halts democratic erosion? The changing role of accountability (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1897109)
+- [Disrupting the autocratization sequence: towards democratic resilience (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2021.1928080)
+- [United we stand, divided we rule: how political polarization erodes democracy (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1818068)
+- [Democratic regression in comparative perspective: scope, methods, and causes (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1807517)
+- [Erosion or decay? Conceptualizing causes and mechanisms of democratic regression (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1826935)
+- [The perils of personalism (2020)](https://www.tandfonline.com/doi/full/10.1080/13510347.2019.1696310)
 
 # Comparative Democratic Politics
 
@@ -137,3 +159,4 @@
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
 - [Rival Strategies of Validation: Tools for Evaluating Measures of Democracy (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013489098)
+- [Democracy and human development: issues of conceptualization and measurement (2021)](https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1818721)
