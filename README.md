@@ -71,6 +71,17 @@
 - [Does It Take Democrats to Democratize? Lessons From Islamic and Secular Elite Values in Turkey (2011)](https://journals.sagepub.com/doi/abs/10.1177/0010414010397751)
 - [Inequality and Democratization: A Contractarian Approach (2010)](https://journals.sagepub.com/doi/abs/10.1177/0010414010376915)
 - [Electoral Protests and Democratization Beyond the Color Revolutions (2009)](https://journals.sagepub.com/doi/abs/10.1177/0010414009332131)
+- [Pandemics and Political Development (2021)](https://www.cambridge.org/core/journals/world-politics/article/pandemics-and-political-development/EA9466FE5164149AD4350B7D38222A5C)
+- [Landowners and Democracy The Social Origins of Democracy Reconsidered (2017)](https://www.cambridge.org/core/journals/world-politics/article/landowners-and-democracy/582AFCB269404451AAC0DB1DDB8407F5)
+- [Anglo-American Primacy and the Global Spread of Democracy: An International Genealogy (2012)](https://www.cambridge.org/core/journals/world-politics/article/abs/angloamerican-primacy-and-the-global-spread-of-democracy-an-international-genealogy/6D66D7569528A2A754CD684D740A39D8)
+- [Inequality and Democracy: Why Inequality Harms Consolidation but Does Not Affect Democratization (2009)](https://www.cambridge.org/core/journals/world-politics/article/abs/inequality-and-democracy-why-inequality-harms-consolidation-but-does-not-affect-democratization/1AC302799314E74BBFD65C60B2CD4489)
+- [The Impact of International Trade on Democracy: A Long-Run Perspective (2008)](https://www.cambridge.org/core/journals/world-politics/article/abs/impact-of-international-trade-on-democracy-a-longrun-perspective/FEF561B435BEBE5916394AF6F71D7D81)
+- [Does Landholding Inequality Block Democratization?: A Test of the “Bread and Democracy” Thesis and the Case of Prussia (2008)](https://www.cambridge.org/core/journals/world-politics/article/does-landholding-inequality-block-democratization-a-test-of-the-bread-and-democracy-thesis-and-the-case-of-prussia/D290EC76C2B223FFC0D00F1D9F45880E)
+- [The Effects of U.S. Foreign Assistance on Democracy Building, 1990–2003 (2007)](https://www.cambridge.org/core/journals/world-politics/article/abs/effects-of-us-foreign-assistance-on-democracy-building-19902003/7B5C4110A94E5D30BFB49199B92869DE)
+- [A Geographic Incremental Theory of Democratization: Territory, Aid, and Democracy in Postcommunist Regions (2006)](https://www.cambridge.org/core/journals/world-politics/article/abs/geographic-incremental-theory-of-democratization-territory-aid-and-democracy-in-postcommunist-regions/49D6A9B3E26953BD039BC87AA66DF0EC)
+- [Endogenous Democratization (2003)](https://www.cambridge.org/core/journals/world-politics/article/abs/endogenous-democratization/B813380A747708BE21A0B28742640EBA)
+- [Islam and Authoritarianism (2003)](https://www.cambridge.org/core/journals/world-politics/article/abs/islam-and-authoritarianism/7B37A3F75A63B688593EF21D25C75C48)
+- [Does Oil Hinder Democracy? (2001)](https://www.cambridge.org/core/journals/world-politics/article/abs/does-oil-hinder-democracy/67665D8D240C8F43CD4A2DCB35894071)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -100,6 +111,8 @@
 - [Coup d’État and Democracy (2016)](https://journals.sagepub.com/doi/abs/10.1177/0010414015621081)
 - [Looking Toward the Future: Alternations in Power and Popular Perspectives on Democratic Durability in Africa (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013488534)
 - [Lessons from Strange Cases: Democracy, Development, and the Resource Curse in the U.S. States (2008)](https://journals.sagepub.com/doi/abs/10.1177/0010414007313123)
+- [Ethnic Inequality and the Dismantling of Democracy: A Global Analysis (2015)](https://www.cambridge.org/core/journals/world-politics/article/ethnic-inequality-and-the-dismantling-of-democracy-a-global-analysis/AB0FF4A670724C048C948A857656F908)
+- [Inequality and Democracy: Why Inequality Harms Consolidation but Does Not Affect Democratization (2009)](https://www.cambridge.org/core/journals/world-politics/article/abs/inequality-and-democracy-why-inequality-harms-consolidation-but-does-not-affect-democratization/1AC302799314E74BBFD65C60B2CD4489)
 
 # Comparative Democratic Politics
 
@@ -119,6 +132,7 @@
 - [Elections, Information, and Policy Responsiveness in Autocratic Regimes (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014555443)
 - [Election Boycotts and Hybrid Regime Survival (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013488548)
 - [If You’re Against Them You’re With Us: The Effect of Expropriation on Autocratic Survival (2012)](https://journals.sagepub.com/doi/abs/10.1177/0010414011428593)
+- [Hereditary Succession in Modern Autocracies (2007)](https://www.cambridge.org/core/journals/world-politics/article/abs/hereditary-succession-in-modern-autocracies/BBE26B84497FEF15B1D98D85B3C07AC4)
 
 # Measurement
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
