@@ -101,6 +101,17 @@
 - [From victorious rebels to strong authoritarian parties: prospects for post-war democratization (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1168404)
 - [Why some countries are immune from the resource curse: The role of economic norms (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.964216)
 - [Are democratic sanctions really counterproductive? (2015)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.888418)
+- [State or democracy first? Alternative perspectives on the state-democracy nexus (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960209)
+- [States and democracy (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960208)
+- [Conditional effect of economic development on democracy – the relevance of the state (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.737321)
+- [Does regime type matter for the impact of democracy aid on democracy? (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.659021)
+- [When can external actors influence democratization? Leverage, linkages, and gatekeeper elites (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.666066)
+- [Inclusive institutions and stability of transition toward democracy in post-civil war states (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.666067)
+- [Modernization, ethnic fractionalization, and democracy (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2011.619777)
+- [Democracy, democratization and climate change: complex relationships (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.709684)
+- [Not all good things go together: conflicting objectives in democracy promotion (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.674355)
+- [Power-sharing and democracy promotion in post-civil war peace-building (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.674359)
+- [Post-civil war democratization: promotion of democracy in post-civil war states, 1946–2005 (2010)](https://www.tandfonline.com/doi/full/10.1080/13510347.2010.501173)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -155,10 +166,14 @@
 - [Presidential hegemony and democratic backsliding in Latin America, 1925–2016 (2019)](https://www.tandfonline.com/doi/full/10.1080/13510347.2019.1566321)
 - [Does ethnic voting harm democracy? (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1423055)
 - [Military loyalty and the failure of democratization in Africa: how ethnic armies shape the capacity of presidents to defy term limits (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1241244)
+- [Meritocratic administration and democratic stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960205)
+- [State capacity and political regime stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960204)
+- [Demography and democracy: the impact of youth cohort size on democratic stability in the world (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2011.650916)
 
 # Comparative Democratic Politics
 - [Unravelling semi-presidentialism: democracy and government performance in four distinct regime types (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1334643#abstract)
 - [The relation between cultural values and models of democracy: a cross-national study (2015)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.893426)
+- [Rethinking the ‘presidentialism debate’: conceptualizing coalitional politics in cross-regional perspective (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.710604)
 
 # Comparative Authoritarian Politics
 - [Elite Change without Regime Change: Authoritarian Persistence in Africa and the End of the Cold War (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/elite-change-without-regime-change-authoritarian-persistence-in-africa-and-the-end-of-the-cold-war/84CEC070788CF00AE24CFBB4840D3DE5)
@@ -179,6 +194,7 @@
 - [Hereditary Succession in Modern Autocracies (2007)](https://www.cambridge.org/core/journals/world-politics/article/abs/hereditary-succession-in-modern-autocracies/BBE26B84497FEF15B1D98D85B3C07AC4)
 - [Autocratic diffusion and cooperation: the impact of interests vs. ideology (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1307823)
 - [Fascism’s missionary ideology and the autocratic wave of the interwar years (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1322581)
+- [State capacity and political regime stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960204)
 
 # Measurement and Methodology
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
@@ -189,3 +205,6 @@
 - [Democratization Articles Dataset: an introduction (2019)](https://www.tandfonline.com/doi/full/10.1080/13510347.2018.1504778)
 - [Measuring subnational democracy: toward improved regime typologies and theories of regime change (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1307822)
 - [What is democracy? A reconceptualization of the quality of democracy (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.918104)
+- [The state-democracy nexus: conceptual distinctions, theoretical perspectives, and comparative approaches (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960206)
+- [Comparing autocracies: theoretical issues and empirical analyses (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2013.738859)
+- [Where to draw the line? From degree to dichotomy in measures of democracy (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2011.613563)
