@@ -112,6 +112,18 @@
 - [Not all good things go together: conflicting objectives in democracy promotion (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.674355)
 - [Power-sharing and democracy promotion in post-civil war peace-building (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.674359)
 - [Post-civil war democratization: promotion of democracy in post-civil war states, 1946–2005 (2010)](https://www.tandfonline.com/doi/full/10.1080/13510347.2010.501173)
+- [The multi-faceted role of religious actors in democratization processes: empirical evidence from five young democracies (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340903271746)
+- [‘Catholic waves’ of democratization? Roman Catholicism and its potential for democratization (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340903271753)
+- [State-sponsored development, oil and democratization (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340902884622)
+- [Democratic Development in Costa Rica (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340802191052)
+- [Against the Odds: Deviant Cases of Democratization (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340802191045)
+- [Upping the Odds: Deviant Democracies and Theories of Democratization (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340802191102)
+- [War and Democratization: Legality, Legitimacy and Effectiveness (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340801991072)
+- [External Democratization after War: Success and Failure (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340801972262)
+- [Democratization after Civil Wars – Key Problems and Experiences (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340801972270)
+- [International Integration and Democratization: An Event History Analysis (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701846343)
+- [Examining the Lagged Effect of Economic Development on Political Democracy: A Panel-VAR Model (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701768232)
+- [Modelling Transitions To and From Democracy (2007)](https://www.tandfonline.com/doi/full/10.1080/13510340701303196)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -169,6 +181,8 @@
 - [Meritocratic administration and democratic stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960205)
 - [State capacity and political regime stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960204)
 - [Demography and democracy: the impact of youth cohort size on democratic stability in the world (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2011.650916)
+- [Perils of parliamentarism? Political systems and the stability of democracy revisited (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340902884598)
+- [Modelling Transitions To and From Democracy (2007)](https://www.tandfonline.com/doi/full/10.1080/13510340701303196)
 
 # Comparative Democratic Politics
 - [Unravelling semi-presidentialism: democracy and government performance in four distinct regime types (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1334643#abstract)
@@ -195,6 +209,7 @@
 - [Autocratic diffusion and cooperation: the impact of interests vs. ideology (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1307823)
 - [Fascism’s missionary ideology and the autocratic wave of the interwar years (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1322581)
 - [State capacity and political regime stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960204)
+- [Restraining the Huddled Masses: Migration Policy and Autocratic Survival (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/restraining-the-huddled-masses-migration-policy-and-autocratic-survival/21B69A5B42F8AD2C33F8083EE97623C0)
 
 # Measurement and Methodology
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
@@ -208,3 +223,5 @@
 - [The state-democracy nexus: conceptual distinctions, theoretical perspectives, and comparative approaches (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960206)
 - [Comparing autocracies: theoretical issues and empirical analyses (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2013.738859)
 - [Where to draw the line? From degree to dichotomy in measures of democracy (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2011.613563)
+- [How to classify hybrid regimes? Defective democracy and electoral authoritarianism (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340902777800)
+- [Mapping ‘Hybrid Regimes’: Regime Types and Concepts in Comparative Politics (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701846319)
