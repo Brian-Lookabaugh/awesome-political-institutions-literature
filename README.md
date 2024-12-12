@@ -124,6 +124,9 @@
 - [International Integration and Democratization: An Event History Analysis (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701846343)
 - [Examining the Lagged Effect of Economic Development on Political Democracy: A Panel-VAR Model (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701768232)
 - [Modelling Transitions To and From Democracy (2007)](https://www.tandfonline.com/doi/full/10.1080/13510340701303196)
+- [Contingent Democratization: When Do Economic Crises Matter? (2017)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/contingent-democratization-when-do-economic-crises-matter/7AD368171131E10D7477B30BED204225)
+- [Democracy by Demand? Reinvestigating the Effect of Self-expression Values on Political Regime Type (2017)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/democracy-by-demand-reinvestigating-the-effect-of-selfexpression-values-on-political-regime-type/0CF38782E076973B4D283DFB1C18F429)
+- [Democratic Pieces: Autocratic Elections and Democratic Development since 1815 (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/democratic-pieces-autocratic-elections-and-democratic-development-since-1815/63329F4F2908DAB4D0FAB53EF73F0D6E)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -183,6 +186,9 @@
 - [Demography and democracy: the impact of youth cohort size on democratic stability in the world (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2011.650916)
 - [Perils of parliamentarism? Political systems and the stability of democracy revisited (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340902884598)
 - [Modelling Transitions To and From Democracy (2007)](https://www.tandfonline.com/doi/full/10.1080/13510340701303196)
+- [Transparency, Protest and Democratic Stability (2019)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/transparency-protest-and-democratic-stability/ECB1EA975C03A03DA66E3957908AE689)
+- [Which Democracies Will Last? Coups, Incumbent Takeovers, and the Dynamic of Democratic Consolidation (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/which-democracies-will-last-coups-incumbent-takeovers-and-the-dynamic-of-democratic-consolidation/CD340575D2119A708A4C6121A99F69D6)
+- [Democratic Pieces: Autocratic Elections and Democratic Development since 1815 (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/democratic-pieces-autocratic-elections-and-democratic-development-since-1815/63329F4F2908DAB4D0FAB53EF73F0D6E)
 
 # Comparative Democratic Politics
 - [Unravelling semi-presidentialism: democracy and government performance in four distinct regime types (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1334643#abstract)
@@ -210,6 +216,7 @@
 - [Fascism’s missionary ideology and the autocratic wave of the interwar years (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1322581)
 - [State capacity and political regime stability (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960204)
 - [Restraining the Huddled Masses: Migration Policy and Autocratic Survival (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/restraining-the-huddled-masses-migration-policy-and-autocratic-survival/21B69A5B42F8AD2C33F8083EE97623C0)
+- [Oil and Autocratic Regime Survival (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/oil-and-autocratic-regime-survival/98FF2EF2C56820C9E9C9FB60E63D3F22)
 
 # Measurement and Methodology
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
