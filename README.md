@@ -130,6 +130,9 @@
 - [Learning Democracy: Education and the Fall of Authoritarian Regimes (2014)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/learning-democracy-education-and-the-fall-of-authoritarian-regimes/B16DFBEB881AF7317E54D50B5027EDCA)
 - [Coups and Democracy (2014)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/coups-and-democracy/505910A86167FE82C8D7019FF6A829AB)
 - [Authoritarian Institutions and Regime Survival: Transitions to Democracy and Subsequent Autocracy (2012)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/authoritarian-institutions-and-regime-survival-transitions-to-democracy-and-subsequent-autocracy/EDFEE7BF3688E60231749376706D3780)
+- [Democratization in the Shadow of Globalization (2021)](https://www.cambridge.org/core/journals/international-organization/article/abs/democratization-in-the-shadow-of-globalization/2082D15E6B3708C04BA7FF62F9C667D2)
+- [Oil and Democracy: Endogenous Natural Resources and the Political “Resource Curse” (2016)](https://www.cambridge.org/core/journals/international-organization/article/abs/oil-and-democracy-endogenous-natural-resources-and-the-political-resource-curse/1770E911751F65F42C8BE1BAF7BFC491)
+- [Aid Is Not Oil: Donor Utility, Heterogeneous Aid, and the Aid-Democratization Relationship (2016)](https://www.cambridge.org/core/journals/international-organization/article/aid-is-not-oil-donor-utility-heterogeneous-aid-and-the-aiddemocratization-relationship/F570C44453D44F0FC2F8DF100C68FABA)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -221,6 +224,7 @@
 - [Restraining the Huddled Masses: Migration Policy and Autocratic Survival (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/restraining-the-huddled-masses-migration-policy-and-autocratic-survival/21B69A5B42F8AD2C33F8083EE97623C0)
 - [Oil and Autocratic Regime Survival (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/oil-and-autocratic-regime-survival/98FF2EF2C56820C9E9C9FB60E63D3F22)
 - [Authoritarian Institutions and Regime Survival: Transitions to Democracy and Subsequent Autocracy (2012)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/authoritarian-institutions-and-regime-survival-transitions-to-democracy-and-subsequent-autocracy/EDFEE7BF3688E60231749376706D3780)
+- [Human Rights Prosecutions and Autocratic Survival (2015)](https://www.cambridge.org/core/journals/international-organization/article/abs/human-rights-prosecutions-and-autocratic-survival/F54745E360BC9C9261A4B5ABC769A219)
 
 # Measurement and Methodology
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
