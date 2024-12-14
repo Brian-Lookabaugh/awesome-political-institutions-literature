@@ -133,6 +133,8 @@
 - [Democratization in the Shadow of Globalization (2021)](https://www.cambridge.org/core/journals/international-organization/article/abs/democratization-in-the-shadow-of-globalization/2082D15E6B3708C04BA7FF62F9C667D2)
 - [Oil and Democracy: Endogenous Natural Resources and the Political “Resource Curse” (2016)](https://www.cambridge.org/core/journals/international-organization/article/abs/oil-and-democracy-endogenous-natural-resources-and-the-political-resource-curse/1770E911751F65F42C8BE1BAF7BFC491)
 - [Aid Is Not Oil: Donor Utility, Heterogeneous Aid, and the Aid-Democratization Relationship (2016)](https://www.cambridge.org/core/journals/international-organization/article/aid-is-not-oil-donor-utility-heterogeneous-aid-and-the-aiddemocratization-relationship/F570C44453D44F0FC2F8DF100C68FABA)
+- [From Shocks to Waves: Hegemonic Transitions and Democratization in the Twentieth Century (2014)](https://www.cambridge.org/core/journals/international-organization/article/abs/from-shocks-to-waves-hegemonic-transitions-and-democratization-in-the-twentieth-century/DC80A16B8DE79A7498B82B7F80FBE111)
+- [Revisiting the Resource Curse: Natural Disasters, the Price of Oil, and Democracy (2011)](https://www.cambridge.org/core/journals/international-organization/article/abs/revisiting-the-resource-curse-natural-disasters-the-price-of-oil-and-democracy/5517B8BB604C3308D9B63BA716D562AF)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
