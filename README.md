@@ -139,6 +139,8 @@
 - [Authoritarian-Led Democratization (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052318-025732)
 - [Wealth Inequality and Democracy (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-061014-101840)
 - [Democratization During the Third Wave (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-042114-015137)
+- [Endogenous democracy: causal evidence from the potato productivity shock in the old world (2021)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/endogenous-democracy-causal-evidence-from-the-potato-productivity-shock-in-the-old-world/7DE973E03AA63E32D25ACCFDED20A94C)
+- [Economic Shocks and Democratization in Africa (2014)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/economic-shocks-and-democratization-in-africa/9439855A6DA9BA92D5000E08A69BB5DD)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -237,6 +239,7 @@
 - [Authoritarian Institutions and Regime Survival: Transitions to Democracy and Subsequent Autocracy (2012)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/authoritarian-institutions-and-regime-survival-transitions-to-democracy-and-subsequent-autocracy/EDFEE7BF3688E60231749376706D3780)
 - [Human Rights Prosecutions and Autocratic Survival (2015)](https://www.cambridge.org/core/journals/international-organization/article/abs/human-rights-prosecutions-and-autocratic-survival/F54745E360BC9C9261A4B5ABC769A219)
 - [Democratic Authoritarianism: Origins and Effects (2014)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052013-115248)
+- [Oil income and the personalization of autocratic politics (2020)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/oil-income-and-the-personalization-of-autocratic-politics/55DC4E21E3206EF09EEB69E63BF298D1)
 
 # Measurement and Methodology
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
@@ -254,3 +257,4 @@
 - [Mapping ‘Hybrid Regimes’: Regime Types and Concepts in Comparative Politics (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701846319)
 - [Beyond Presidentialism and Parliamentarism (2014)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/beyond-presidentialism-and-parliamentarism/C05BCC98907B81C6930241CC9AB7872C)
 - [Rethinking Dimensions of Democracy for Empirical Analysis: Authenticity, Quality, Depth, and Consolidation (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-042114-015910)
+- [Democracy for All: Conceptualizing and Measuring Egalitarian Democracy (2019)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/democracy-for-all-conceptualizing-and-measuring-egalitarian-democracy/496C5B80EFE82460C35AD4140932481E)
