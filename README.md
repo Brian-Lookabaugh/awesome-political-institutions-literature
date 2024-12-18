@@ -135,6 +135,10 @@
 - [Aid Is Not Oil: Donor Utility, Heterogeneous Aid, and the Aid-Democratization Relationship (2016)](https://www.cambridge.org/core/journals/international-organization/article/aid-is-not-oil-donor-utility-heterogeneous-aid-and-the-aiddemocratization-relationship/F570C44453D44F0FC2F8DF100C68FABA)
 - [From Shocks to Waves: Hegemonic Transitions and Democratization in the Twentieth Century (2014)](https://www.cambridge.org/core/journals/international-organization/article/abs/from-shocks-to-waves-hegemonic-transitions-and-democratization-in-the-twentieth-century/DC80A16B8DE79A7498B82B7F80FBE111)
 - [Revisiting the Resource Curse: Natural Disasters, the Price of Oil, and Democracy (2011)](https://www.cambridge.org/core/journals/international-organization/article/abs/revisiting-the-resource-curse-natural-disasters-the-price-of-oil-and-democracy/5517B8BB604C3308D9B63BA716D562AF)
+- [Economic Development and Democracy: Predispositions and Triggers (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-043546)
+- [Authoritarian-Led Democratization (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052318-025732)
+- [Wealth Inequality and Democracy (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-061014-101840)
+- [Democratization During the Third Wave (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-042114-015137)
 
 # Democratic Breakdown and Consolidation
 - [Antidote to Backsliding: Ethnic Politics and Democratic Resilience (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/antidote-to-backsliding-ethnic-politics-and-democratic-resilience/34874D1B9A5A35AE9D7096D4CDC0A0AB)
@@ -197,6 +201,11 @@
 - [Transparency, Protest and Democratic Stability (2019)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/transparency-protest-and-democratic-stability/ECB1EA975C03A03DA66E3957908AE689)
 - [Which Democracies Will Last? Coups, Incumbent Takeovers, and the Dynamic of Democratic Consolidation (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/which-democracies-will-last-coups-incumbent-takeovers-and-the-dynamic-of-democratic-consolidation/CD340575D2119A708A4C6121A99F69D6)
 - [Democratic Pieces: Autocratic Elections and Democratic Development since 1815 (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/democratic-pieces-autocratic-elections-and-democratic-development-since-1815/63329F4F2908DAB4D0FAB53EF73F0D6E)
+- [Theories of Democratic Backsliding (2024)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-041322-025352)
+- [Democratic Stability: A Long View (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052918-012050)
+- [Economic Development and Democracy: Predispositions and Triggers (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-043546)
+- [Wealth Inequality and Democracy (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-061014-101840)
+- [Democracy in the Global South (2022)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-030320-123449)
 
 # Comparative Democratic Politics
 - [Unravelling semi-presidentialism: democracy and government performance in four distinct regime types (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1334643#abstract)
@@ -227,6 +236,7 @@
 - [Oil and Autocratic Regime Survival (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/oil-and-autocratic-regime-survival/98FF2EF2C56820C9E9C9FB60E63D3F22)
 - [Authoritarian Institutions and Regime Survival: Transitions to Democracy and Subsequent Autocracy (2012)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/authoritarian-institutions-and-regime-survival-transitions-to-democracy-and-subsequent-autocracy/EDFEE7BF3688E60231749376706D3780)
 - [Human Rights Prosecutions and Autocratic Survival (2015)](https://www.cambridge.org/core/journals/international-organization/article/abs/human-rights-prosecutions-and-autocratic-survival/F54745E360BC9C9261A4B5ABC769A219)
+- [Democratic Authoritarianism: Origins and Effects (2014)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052013-115248)
 
 # Measurement and Methodology
 - [Leviathan’s Latent Dimensions: Measuring State Capacity for Comparative Political Research (2021)](https://www.journals.uchicago.edu/doi/10.1086/715066)
@@ -243,3 +253,4 @@
 - [How to classify hybrid regimes? Defective democracy and electoral authoritarianism (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340902777800)
 - [Mapping ‘Hybrid Regimes’: Regime Types and Concepts in Comparative Politics (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340701846319)
 - [Beyond Presidentialism and Parliamentarism (2014)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/beyond-presidentialism-and-parliamentarism/C05BCC98907B81C6930241CC9AB7872C)
+- [Rethinking Dimensions of Democracy for Empirical Analysis: Authenticity, Quality, Depth, and Consolidation (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-042114-015910)
